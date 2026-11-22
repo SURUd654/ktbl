@@ -1,0 +1,41 @@
+{
+  "name": "ことバトル - 16bit 言葉対戦ゲーム",
+  "short_name": "ことバトル",
+  "description": "AIや友達と短い言葉で対決！個性派ミツバチ審査員が熱くジャッジする16bitピクセル風ことば対戦ゲーム",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "lang": "ja",
+  "background_color": "#fff5d6",
+  "theme_color": "#fff5d6",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
